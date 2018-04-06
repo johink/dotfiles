@@ -1,0 +1,23 @@
+# Checked/Compiled files
+__pycache__
+*.o
+*.py[cod]
+bin
+obj
+build
+dist
+
+# Editor/tag files
+\#*\#
+*.swp
+tags
+.vs
+
+# included files
+packages/
+
+# local config files with login info
+local_settings.py
+
+# sqlite
+*.sqlite3
